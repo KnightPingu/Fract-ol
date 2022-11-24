@@ -1,5 +1,5 @@
 # Fract-ol
-A simple fractal rendering program
+A simple fractal rendering program using 42's MLX library.
 
 Currently supported fractals are Mandelbrot, Burning Ship and Julia set.
 
